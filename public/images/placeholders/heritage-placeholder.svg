@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="hBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF7F2"/>
+      <stop offset="100%" stop-color="#EBE3D3"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#hBgGrad)"/>
+  <rect x="0" y="0" width="800" height="6" fill="#1E3A2B"/>
+  <g transform="translate(400, 200)" text-anchor="middle">
+    <circle cx="0" cy="-30" r="44" fill="#FFFFFF" stroke="#1E3A2B" stroke-width="2" stroke-opacity="0.25"/>
+    <!-- Traditional Shield & Spear Monolith Icon -->
+    <path d="M0 -52 L12 -28 C12 -12 0 0 0 0 C0 0 -12 -12 -12 -28 Z" fill="#DC143C"/>
+    <circle cx="0" cy="-26" r="4" fill="#FAF7F2"/>
+    <text y="40" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#1C1917">
+      Heritage Archive Documentation
+    </text>
+    <text y="68" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#6B7280">
+      Clan approval and photographic provenance cataloging in progress
+    </text>
+    <rect x="-110" y="92" width="220" height="26" rx="13" fill="#1E3A2B" fill-opacity="0.08"/>
+    <text y="109" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#1E3A2B" letter-spacing="1">
+      HERITAGE ATLAS REPOSITORY
+    </text>
+  </g>
+</svg>

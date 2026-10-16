@@ -1,0 +1,209 @@
+{
+  "version": "1.0.0",
+  "sourceDirectory": "/Users/pranjalmishra/naga quest/icfaihackathone/raw_assets",
+  "outputDirectory": "/Users/pranjalmishra/naga quest/icfaihackathone/public/images",
+  "totalProcessed": 4,
+  "avifEnabled": true,
+  "assets": [
+    {
+      "id": "rehangki-morung",
+      "originalName": "rehangki-morung.jpg",
+      "originalWidth": 1536,
+      "originalHeight": 2048,
+      "aspectRatio": 0.75,
+      "primarySrc": "/images/heritage/rehangki-morung-1536.webp",
+      "fallbackSrc": "/images/heritage/rehangki-morung-1536.jpg",
+      "variants": {
+        "webp": [
+          {
+            "src": "/images/heritage/rehangki-morung-400.webp",
+            "width": 400,
+            "height": 533,
+            "sizeKb": 44.6
+          },
+          {
+            "src": "/images/heritage/rehangki-morung-800.webp",
+            "width": 800,
+            "height": 1067,
+            "sizeKb": 172.8
+          },
+          {
+            "src": "/images/heritage/rehangki-morung-1536.webp",
+            "width": 1536,
+            "height": 2048,
+            "sizeKb": 544.7
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "/images/heritage/rehangki-morung-400.jpg",
+            "width": 400,
+            "height": 533,
+            "sizeKb": 47.4
+          },
+          {
+            "src": "/images/heritage/rehangki-morung-800.jpg",
+            "width": 800,
+            "height": 1067,
+            "sizeKb": 190.1
+          },
+          {
+            "src": "/images/heritage/rehangki-morung-1536.jpg",
+            "width": 1536,
+            "height": 2048,
+            "sizeKb": 694.1
+          }
+        ],
+        "avif": []
+      },
+      "generatedCount": 6
+    },
+    {
+      "id": "benreu-village",
+      "originalName": "benreu-village.jpg",
+      "originalWidth": 496,
+      "originalHeight": 618,
+      "aspectRatio": 0.803,
+      "primarySrc": "/images/tourism/districts/peren/benreu-village-496.webp",
+      "fallbackSrc": "/images/tourism/districts/peren/benreu-village-496.jpg",
+      "variants": {
+        "webp": [
+          {
+            "src": "/images/tourism/districts/peren/benreu-village-400.webp",
+            "width": 400,
+            "height": 498,
+            "sizeKb": 56.1
+          },
+          {
+            "src": "/images/tourism/districts/peren/benreu-village-496.webp",
+            "width": 496,
+            "height": 618,
+            "sizeKb": 88.6
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "/images/tourism/districts/peren/benreu-village-400.jpg",
+            "width": 400,
+            "height": 498,
+            "sizeKb": 58.7
+          },
+          {
+            "src": "/images/tourism/districts/peren/benreu-village-496.jpg",
+            "width": 496,
+            "height": 618,
+            "sizeKb": 85.5
+          }
+        ],
+        "avif": []
+      },
+      "generatedCount": 4
+    },
+    {
+      "id": "peren-overview",
+      "originalName": "peren-overview.jpg",
+      "originalWidth": 823,
+      "originalHeight": 1280,
+      "aspectRatio": 0.643,
+      "primarySrc": "/images/tourism/districts/peren/peren-overview-823.webp",
+      "fallbackSrc": "/images/tourism/districts/peren/peren-overview-823.jpg",
+      "variants": {
+        "webp": [
+          {
+            "src": "/images/tourism/districts/peren/peren-overview-400.webp",
+            "width": 400,
+            "height": 622,
+            "sizeKb": 54.0
+          },
+          {
+            "src": "/images/tourism/districts/peren/peren-overview-800.webp",
+            "width": 800,
+            "height": 1244,
+            "sizeKb": 115.1
+          },
+          {
+            "src": "/images/tourism/districts/peren/peren-overview-823.webp",
+            "width": 823,
+            "height": 1280,
+            "sizeKb": 116.6
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "/images/tourism/districts/peren/peren-overview-400.jpg",
+            "width": 400,
+            "height": 622,
+            "sizeKb": 63.2
+          },
+          {
+            "src": "/images/tourism/districts/peren/peren-overview-800.jpg",
+            "width": 800,
+            "height": 1244,
+            "sizeKb": 161.8
+          },
+          {
+            "src": "/images/tourism/districts/peren/peren-overview-823.jpg",
+            "width": 823,
+            "height": 1280,
+            "sizeKb": 150.5
+          }
+        ],
+        "avif": []
+      },
+      "generatedCount": 6
+    },
+    {
+      "id": "poilwa-sheep-farm",
+      "originalName": "poilwa-sheep-farm.jpg",
+      "originalWidth": 962,
+      "originalHeight": 1280,
+      "aspectRatio": 0.752,
+      "primarySrc": "/images/tourism/districts/peren/poilwa-sheep-farm-962.webp",
+      "fallbackSrc": "/images/tourism/districts/peren/poilwa-sheep-farm-962.jpg",
+      "variants": {
+        "webp": [
+          {
+            "src": "/images/tourism/districts/peren/poilwa-sheep-farm-400.webp",
+            "width": 400,
+            "height": 532,
+            "sizeKb": 43.6
+          },
+          {
+            "src": "/images/tourism/districts/peren/poilwa-sheep-farm-800.webp",
+            "width": 800,
+            "height": 1064,
+            "sizeKb": 123.4
+          },
+          {
+            "src": "/images/tourism/districts/peren/poilwa-sheep-farm-962.webp",
+            "width": 962,
+            "height": 1280,
+            "sizeKb": 152.3
+          }
+        ],
+        "jpeg": [
+          {
+            "src": "/images/tourism/districts/peren/poilwa-sheep-farm-400.jpg",
+            "width": 400,
+            "height": 532,
+            "sizeKb": 48.9
+          },
+          {
+            "src": "/images/tourism/districts/peren/poilwa-sheep-farm-800.jpg",
+            "width": 800,
+            "height": 1064,
+            "sizeKb": 152.5
+          },
+          {
+            "src": "/images/tourism/districts/peren/poilwa-sheep-farm-962.jpg",
+            "width": 962,
+            "height": 1280,
+            "sizeKb": 189.3
+          }
+        ],
+        "avif": []
+      },
+      "generatedCount": 6
+    }
+  ]
+}

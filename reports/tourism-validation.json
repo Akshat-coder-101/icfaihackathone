@@ -1,0 +1,188 @@
+{
+  "timestamp": "2026-10-16T03:08:59.609Z",
+  "isStrict": false,
+  "summary": {
+    "totalDestinations": 29,
+    "totalDistricts": 7,
+    "errors": 0,
+    "warnings": 0,
+    "info": 25
+  },
+  "findings": [
+    {
+      "destinationId": "ntangki-national-park",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'ntangki-national-park' has no imageId; will render fallback 'nature' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "chepeube-salt-springs",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'chepeube-salt-springs' has no imageId; will render fallback 'heritage' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "khonoma-green-village",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'khonoma-green-village' has no imageId; will render fallback 'village' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "kisama-heritage-village",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'kisama-heritage-village' has no imageId; will render fallback 'heritage' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "dzukou-valley",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'dzukou-valley' has no imageId; will render fallback 'nature' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "kohima-war-cemetery",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'kohima-war-cemetery' has no imageId; will render fallback 'heritage' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "kohima-state-museum",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'kohima-state-museum' has no imageId; will render fallback 'attraction' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "mount-japfu",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'mount-japfu' has no imageId; will render fallback 'nature' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "pulie-badze",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'pulie-badze' has no imageId; will render fallback 'nature' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "catholic-cathedral-kohima",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'catholic-cathedral-kohima' has no imageId; will render fallback 'heritage' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "kachari-ruins",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'kachari-ruins' has no imageId; will render fallback 'heritage' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "diezephe-craft-village",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'diezephe-craft-village' has no imageId; will render fallback 'village' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "nagaland-zoological-park",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'nagaland-zoological-park' has no imageId; will render fallback 'nature' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "green-park-dimapur",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'green-park-dimapur' has no imageId; will render fallback 'attraction' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "triple-falls-chumoukedima",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'triple-falls-chumoukedima' has no imageId; will render fallback 'nature' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "doyang-reservoir",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'doyang-reservoir' has no imageId; will render fallback 'nature' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "mount-tiyi",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'mount-tiyi' has no imageId; will render fallback 'nature' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "mopungchuket-village",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'mopungchuket-village' has no imageId; will render fallback 'village' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "ungma-village",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'ungma-village' has no imageId; will render fallback 'village' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "pfutsero-glory-peak",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'pfutsero-glory-peak' has no imageId; will render fallback 'nature' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "khezhakeno-village",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'khezhakeno-village' has no imageId; will render fallback 'heritage' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "longwa-village",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'longwa-village' has no imageId; will render fallback 'village' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "shangnyu-village",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'shangnyu-village' has no imageId; will render fallback 'heritage' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "tuensang-craft-market",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'tuensang-craft-market' has no imageId; will render fallback 'market' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    },
+    {
+      "destinationId": "hakchang-village",
+      "severity": "INFO",
+      "code": "CATEGORY_PLACEHOLDER_USED",
+      "message": "Destination 'hakchang-village' has no imageId; will render fallback 'village' SVG placeholder.",
+      "remediation": "Non-blocking: add verified photography when field documentation is compiled."
+    }
+  ]
+}

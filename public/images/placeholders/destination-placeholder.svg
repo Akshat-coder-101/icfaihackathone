@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF7F2"/>
+      <stop offset="50%" stop-color="#F3EFE6"/>
+      <stop offset="100%" stop-color="#EAE5D9"/>
+    </linearGradient>
+    <pattern id="weavePattern" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 12 L12 0 L24 12 L12 24 Z" fill="none" stroke="#1E3A2B" stroke-width="1" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bgGrad)"/>
+  <rect width="800" height="450" fill="url(#weavePattern)"/>
+  <rect x="0" y="0" width="800" height="6" fill="#DC143C"/>
+  <g transform="translate(400, 200)" text-anchor="middle">
+    <circle cx="0" cy="-30" r="44" fill="#FFFFFF" stroke="#1E3A2B" stroke-width="2" stroke-opacity="0.2"/>
+    <path d="M-14 -44 L0 -16 L14 -44 Z" fill="#DC143C"/>
+    <circle cx="0" cy="-30" r="10" fill="#1E3A2B"/>
+    <text y="40" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#1C1917">
+      Destination Image Pending
+    </text>
+    <text y="68" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#6B7280">
+      Verified community photography will be added following elder and council review
+    </text>
+    <rect x="-110" y="92" width="220" height="26" rx="13" fill="#1E3A2B" fill-opacity="0.08"/>
+    <text y="109" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="700" fill="#1E3A2B" letter-spacing="1">
+      NAGAQUEST LIVING ARCHIVE
+    </text>
+  </g>
+</svg>

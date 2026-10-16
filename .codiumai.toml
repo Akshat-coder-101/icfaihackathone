@@ -1,0 +1,6 @@
+[tests]
+framework = "vitest"
+runner = "npm test"
+
+[code_review]
+auto_review = true

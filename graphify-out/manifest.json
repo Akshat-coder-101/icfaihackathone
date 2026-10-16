@@ -1,0 +1,1082 @@
+{
+  "backend/main.py": {
+    "mtime": 1792052481.6272473,
+    "seen": 1792119057.616452,
+    "ast_hash": "96a11c436663c43e5c2f3b72290719e8",
+    "semantic_hash": ""
+  },
+  "backend/run_backend.py": {
+    "mtime": 1792052481.6274223,
+    "seen": 1792119057.6164532,
+    "ast_hash": "c8fc181f407967533b55c5bc818cede2",
+    "semantic_hash": ""
+  },
+  "eslint.config.js": {
+    "mtime": 1792052481.6275005,
+    "seen": 1792119057.616454,
+    "ast_hash": "3aa4b57d7f08181d86bde52a4dcb7f22",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1792111143.5318503,
+    "seen": 1792119057.6164548,
+    "ast_hash": "7664865c4bc06a40cc33623dc3154067",
+    "semantic_hash": ""
+  },
+  "reports/tourism-validation.json": {
+    "mtime": 1792117644.1524403,
+    "seen": 1792119057.6164548,
+    "ast_hash": "ecf98358cfd69939f24a61f90d481e12",
+    "semantic_hash": ""
+  },
+  "scripts/images/optimization_report.json": {
+    "mtime": 1792071760.693373,
+    "seen": 1792119057.616456,
+    "ast_hash": "80e3f12795a14c879fa0e02875625b46",
+    "semantic_hash": ""
+  },
+  "scripts/images/optimize_images.py": {
+    "mtime": 1792072921.7011034,
+    "seen": 1792119057.616456,
+    "ast_hash": "c0cf940a737103c7c39388135333f917",
+    "semantic_hash": ""
+  },
+  "scripts/images/validate_manifest.js": {
+    "mtime": 1792113546.301334,
+    "seen": 1792119057.616457,
+    "ast_hash": "aa2bdbb3657e2adf25f80fa6aac3f145",
+    "semantic_hash": ""
+  },
+  "scripts/tourism/district_experience.test.js": {
+    "mtime": 1792070448.329068,
+    "seen": 1792119057.616458,
+    "ast_hash": "818ea4e4d3db3dab33c78b0be8099710",
+    "semantic_hash": ""
+  },
+  "scripts/tourism/validate_tourism.js": {
+    "mtime": 1792069273.3385832,
+    "seen": 1792119057.616458,
+    "ast_hash": "4dc41f1e7bf138fc648ae93a5bbb76cd",
+    "semantic_hash": ""
+  },
+  "scripts/tourism/validate_tourism.test.js": {
+    "mtime": 1792069367.0847447,
+    "seen": 1792119057.616459,
+    "ast_hash": "df5986126f9a6cf36bf6764e208fc763",
+    "semantic_hash": ""
+  },
+  "scripts/tourism/validationReport.js": {
+    "mtime": 1792067367.6143832,
+    "seen": 1792119057.616459,
+    "ast_hash": "00a74eaa1453882cd39425c9a5647ea0",
+    "semantic_hash": ""
+  },
+  "scripts/tourism/validationRules.js": {
+    "mtime": 1792069224.5401425,
+    "seen": 1792119057.616459,
+    "ast_hash": "2d420da43862a12fd022a3c5970ae163",
+    "semantic_hash": ""
+  },
+  "src/App.jsx": {
+    "mtime": 1792119039.6367812,
+    "seen": 1792119057.61646,
+    "ast_hash": "c6d1f5540d05a27adffd2ac7505f5203",
+    "semantic_hash": ""
+  },
+  "src/components/ApiKeyModal.jsx": {
+    "mtime": 1792113561.1805387,
+    "seen": 1792119057.61646,
+    "ast_hash": "33f3a267a818d2b7384e08ba995bfb85",
+    "semantic_hash": ""
+  },
+  "src/components/CommunityPortal.jsx": {
+    "mtime": 1792117374.769347,
+    "seen": 1792119057.616461,
+    "ast_hash": "b2aa37a2ce5f4a020912f0dcc3125f03",
+    "semantic_hash": ""
+  },
+  "src/components/CopyButton.jsx": {
+    "mtime": 1792113605.1980221,
+    "seen": 1792119057.616461,
+    "ast_hash": "2ab11625a53ee810b72143bcbaf2d817",
+    "semantic_hash": ""
+  },
+  "src/components/CulturalCompanion.jsx": {
+    "mtime": 1792117629.6818252,
+    "seen": 1792119057.616462,
+    "ast_hash": "417f31d3a90beebaa7da7e817cf3bfdb",
+    "semantic_hash": ""
+  },
+  "src/components/Dashboard.jsx": {
+    "mtime": 1792117583.9393249,
+    "seen": 1792119057.616462,
+    "ast_hash": "b2e185c948b55f1d57b448199b573062",
+    "semantic_hash": ""
+  },
+  "src/components/HeritageAtlas.jsx": {
+    "mtime": 1792112956.2039213,
+    "seen": 1792119057.616462,
+    "ast_hash": "751cea169a5f0d935367cd8777469958",
+    "semantic_hash": ""
+  },
+  "src/components/LanguageStudio.jsx": {
+    "mtime": 1792113234.862594,
+    "seen": 1792119057.6164632,
+    "ast_hash": "098cdd93c4eacffa4b470b64b1426f43",
+    "semantic_hash": ""
+  },
+  "src/components/MarkdownRenderer.jsx": {
+    "mtime": 1792113110.7821438,
+    "seen": 1792119057.6164632,
+    "ast_hash": "8a924f034f823c1acc6a1fe92536abc5",
+    "semantic_hash": ""
+  },
+  "src/components/NagaIntroSplash.jsx": {
+    "mtime": 1792113124.4035068,
+    "seen": 1792119057.616464,
+    "ast_hash": "ebca9f9437f013fd4140b55747a2eae3",
+    "semantic_hash": ""
+  },
+  "src/components/NagaWeavingDivider.jsx": {
+    "mtime": 1792112160.6617243,
+    "seen": 1792119057.616464,
+    "ast_hash": "5799c73d6ee84c63dbc088b40474618a",
+    "semantic_hash": ""
+  },
+  "src/components/OfflineLibraryView.jsx": {
+    "mtime": 1792117508.2272677,
+    "seen": 1792119057.6164649,
+    "ast_hash": "a9cf66bef764cdce626b637fc3b3039d",
+    "semantic_hash": ""
+  },
+  "src/components/OralArchive.jsx": {
+    "mtime": 1792117594.9259908,
+    "seen": 1792119057.6164649,
+    "ast_hash": "6427c021e3bd8c9d17fb5b376cf325ce",
+    "semantic_hash": ""
+  },
+  "src/components/ResponseMetaBadge.jsx": {
+    "mtime": 1792116828.241845,
+    "seen": 1792119057.6164649,
+    "ast_hash": "5516fe683a9476f39fe2cf8304555e9d",
+    "semantic_hash": ""
+  },
+  "src/components/TourismGuide.jsx": {
+    "mtime": 1792117612.2754486,
+    "seen": 1792119057.6164658,
+    "ast_hash": "e38c06ef09133c50882e47a80b749e3d",
+    "semantic_hash": ""
+  },
+  "src/components/images/ImageAttribution.jsx": {
+    "mtime": 1792058848.8142188,
+    "seen": 1792119057.6164658,
+    "ast_hash": "d91bb2b85e4481f9d365ce0a06f5c1b2",
+    "semantic_hash": ""
+  },
+  "src/components/images/ImagePlaceholder.jsx": {
+    "mtime": 1792058877.4099014,
+    "seen": 1792119057.616467,
+    "ast_hash": "3ab319d7dcd2cf37d8461159637cf0e0",
+    "semantic_hash": ""
+  },
+  "src/components/images/ManagedImage.jsx": {
+    "mtime": 1792058279.0428967,
+    "seen": 1792119057.616467,
+    "ast_hash": "9d526952a0a1c0814a5d00e41dae52e3",
+    "semantic_hash": ""
+  },
+  "src/components/images/ResponsiveImage.jsx": {
+    "mtime": 1792058266.1997566,
+    "seen": 1792119057.616468,
+    "ast_hash": "701bdd62d5214edacc8d292794865a43",
+    "semantic_hash": ""
+  },
+  "src/components/images/index.js": {
+    "mtime": 1792058287.135465,
+    "seen": 1792119057.616468,
+    "ast_hash": "3f5dc6be5d90878a4bd7a6da0f9e7fd2",
+    "semantic_hash": ""
+  },
+  "src/components/maps/DestinationMarker.jsx": {
+    "mtime": 1792059220.7439702,
+    "seen": 1792119057.616468,
+    "ast_hash": "d6b19ff4ddb03858cbf85c864390f1e4",
+    "semantic_hash": ""
+  },
+  "src/components/maps/DestinationPopup.jsx": {
+    "mtime": 1792117235.5063453,
+    "seen": 1792119057.616469,
+    "ast_hash": "6ce359f6c715a0551b7e2196b6345972",
+    "semantic_hash": ""
+  },
+  "src/components/maps/MapControls.jsx": {
+    "mtime": 1792059269.842685,
+    "seen": 1792119057.616469,
+    "ast_hash": "93c8c90996bc67ea52fd2b7c96faf73f",
+    "semantic_hash": ""
+  },
+  "src/components/maps/MapLoadingState.jsx": {
+    "mtime": 1792059253.034633,
+    "seen": 1792119057.61647,
+    "ast_hash": "8c6fd0a10654d65eac841685b9787de2",
+    "semantic_hash": ""
+  },
+  "src/components/maps/TourismMap.jsx": {
+    "mtime": 1792112784.531893,
+    "seen": 1792119057.61647,
+    "ast_hash": "e2d9f02d5488f262415afbd7cd30efd9",
+    "semantic_hash": ""
+  },
+  "src/components/maps/index.js": {
+    "mtime": 1792059332.3058898,
+    "seen": 1792119057.616471,
+    "ast_hash": "8a401fe1ab785636452a08f0cd2bb876",
+    "semantic_hash": ""
+  },
+  "src/components/shared/ActiveFilterBar.jsx": {
+    "mtime": 1792111143.5336204,
+    "seen": 1792119057.616471,
+    "ast_hash": "d24556d43274b16af5df0dda45ab4172",
+    "semantic_hash": ""
+  },
+  "src/components/shared/HeritageEmptyState.jsx": {
+    "mtime": 1792111143.5337014,
+    "seen": 1792119057.616471,
+    "ast_hash": "1197f8cde85de49c24921a886e2b911a",
+    "semantic_hash": ""
+  },
+  "src/components/shared/HeritageSearchBar.jsx": {
+    "mtime": 1792111143.5337837,
+    "seen": 1792119057.616472,
+    "ast_hash": "8cec93d96f2ad247d4d37174c0020c0b",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/AccommodationCard.jsx": {
+    "mtime": 1792117073.403641,
+    "seen": 1792119057.616472,
+    "ast_hash": "3502126ff047ae9bf43a61a312ed6cd1",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/AccommodationsView.jsx": {
+    "mtime": 1792117129.9223447,
+    "seen": 1792119057.6164732,
+    "ast_hash": "6e0a68eef38a62d6bc54589c2d5b7f00",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/CuisineCard.jsx": {
+    "mtime": 1792117051.2734337,
+    "seen": 1792119057.6164732,
+    "ast_hash": "d394cdbb44e5f57a456b45390271827c",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/DestinationCard.jsx": {
+    "mtime": 1792117027.1322794,
+    "seen": 1792119057.6164742,
+    "ast_hash": "727b656135c5c60fef1aec2a14ad6cd8",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/DestinationDetailPage.jsx": {
+    "mtime": 1792116951.5523174,
+    "seen": 1792119057.6164742,
+    "ast_hash": "f70d0ce395cfd53dc3c0eef59ae07dd7",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/DistrictCard.jsx": {
+    "mtime": 1792118538.8408957,
+    "seen": 1792119057.6164742,
+    "ast_hash": "d85566980023d99f9eb9fcc6532dbd12",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/DistrictDetailPage.jsx": {
+    "mtime": 1792118478.315611,
+    "seen": 1792119057.6164749,
+    "ast_hash": "7695a542761263df2c7cfe08b676f1f8",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/DistrictExplorer.jsx": {
+    "mtime": 1792118693.5870652,
+    "seen": 1792119057.6164749,
+    "ast_hash": "948e3b2f44e69353abf491e1ab4afb07",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/DistrictVillagesPage.jsx": {
+    "mtime": 1792112294.5519745,
+    "seen": 1792119057.6164758,
+    "ast_hash": "697b2855199c038085e99747328c6c58",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/FloraFaunaView.jsx": {
+    "mtime": 1792112710.6821976,
+    "seen": 1792119057.6164758,
+    "ast_hash": "c8b90530ce0298c64272f10601eb42bd",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/FoodCuisineView.jsx": {
+    "mtime": 1792117156.5892668,
+    "seen": 1792119057.6164758,
+    "ast_hash": "bd0e33203a1e305014966abb2226737b",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/ILPRequirementsView.jsx": {
+    "mtime": 1792112757.5493927,
+    "seen": 1792119057.616477,
+    "ast_hash": "60f1053ed5ecd989f0c16d095d5b8ab5",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/SeasonSelector.jsx": {
+    "mtime": 1792112608.9855387,
+    "seen": 1792119057.616477,
+    "ast_hash": "65b1aa9e0f3fa598520c92b0ac352d80",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/SeasonalTravelView.jsx": {
+    "mtime": 1792112624.9592438,
+    "seen": 1792119057.616478,
+    "ast_hash": "f8ebb8f93eaeb96fd6f8e7d3a764e185",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/SourceAttribution.jsx": {
+    "mtime": 1792116806.9719186,
+    "seen": 1792119057.616478,
+    "ast_hash": "31cd9784e9474c3112fdc1a4d8a4e648",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/SpeciesCard.jsx": {
+    "mtime": 1792117103.423085,
+    "seen": 1792119057.616479,
+    "ast_hash": "d2f5cdf0a64791bdd3dbc44c3740c853",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/TourismCategoryCard.jsx": {
+    "mtime": 1792113093.6690214,
+    "seen": 1792119057.616479,
+    "ast_hash": "a7a9e2a04d1dc4e452ba82f3358057a3",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/TourismEmptyState.jsx": {
+    "mtime": 1792055293.564163,
+    "seen": 1792119057.616479,
+    "ast_hash": "b39ab0ec84439d291867d922002370ab",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/TourismMapPage.jsx": {
+    "mtime": 1792117212.0500913,
+    "seen": 1792119057.61648,
+    "ast_hash": "7377b1d62ae4cd72d3871c6b6a77643f",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/TourismNavTabs.jsx": {
+    "mtime": 1792111876.246706,
+    "seen": 1792119057.61648,
+    "ast_hash": "4805f4f820db95b9bbb7573e60e42e39",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/TourismPageHeader.jsx": {
+    "mtime": 1792111845.4331,
+    "seen": 1792119057.61648,
+    "ast_hash": "ab0b5b45fd324d858bbe8b8be55119e9",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/VerificationBadge.jsx": {
+    "mtime": 1792116786.8931692,
+    "seen": 1792119057.616481,
+    "ast_hash": "415ab4e790cbab7a86d4f1ef1c081716",
+    "semantic_hash": ""
+  },
+  "src/components/tourism/VillageCard.jsx": {
+    "mtime": 1792112033.0847507,
+    "seen": 1792119057.616481,
+    "ast_hash": "5fa53d2c0913a5db06fc590034b5a086",
+    "semantic_hash": ""
+  },
+  "src/data/archiveData.js": {
+    "mtime": 1792111143.5344028,
+    "seen": 1792119057.616482,
+    "ast_hash": "509817e3e963047c32b111c11215aced",
+    "semantic_hash": ""
+  },
+  "src/data/images/imageHelpers.js": {
+    "mtime": 1792058216.861092,
+    "seen": 1792119057.616482,
+    "ast_hash": "45e4942e44e17a2f0430be0b19cdb60d",
+    "semantic_hash": ""
+  },
+  "src/data/images/imageManifest.js": {
+    "mtime": 1792058155.556867,
+    "seen": 1792119057.616482,
+    "ast_hash": "a6a0e85ab494b0f43e2f30fefefaa451",
+    "semantic_hash": ""
+  },
+  "src/data/images/imageTypes.js": {
+    "mtime": 1792058126.1292098,
+    "seen": 1792119057.616483,
+    "ast_hash": "463e0ad6a2650ec3cc320a272115e65b",
+    "semantic_hash": ""
+  },
+  "src/data/tourismData.js": {
+    "mtime": 1792071977.9057815,
+    "seen": 1792119057.616483,
+    "ast_hash": "2f16ca144bc06cad321807ab69d0f427",
+    "semantic_hash": ""
+  },
+  "src/data/tourismDestinations.js": {
+    "mtime": 1792070093.2919884,
+    "seen": 1792119057.6164842,
+    "ast_hash": "d79653f20b6dd13fa56a29711d08f047",
+    "semantic_hash": ""
+  },
+  "src/main.jsx": {
+    "mtime": 1792052481.6309316,
+    "seen": 1792119057.6164842,
+    "ast_hash": "294c972051e832cd4622796abc3a3c9e",
+    "semantic_hash": ""
+  },
+  "src/services/GeminiService.js": {
+    "mtime": 1792113426.758702,
+    "seen": 1792119057.6164842,
+    "ast_hash": "711843665c159deb26b06e0516857446",
+    "semantic_hash": ""
+  },
+  "src/services/RetrievalGroundingService.js": {
+    "mtime": 1792052481.6314464,
+    "seen": 1792119057.616485,
+    "ast_hash": "ffb51847f24e0e9df17cb5d075b0bf95",
+    "semantic_hash": ""
+  },
+  "src/services/TourismApiService.js": {
+    "mtime": 1792113171.2790458,
+    "seen": 1792119057.616485,
+    "ast_hash": "1662e409664cf6119c8edebcfce5a938",
+    "semantic_hash": ""
+  },
+  "src/services/archiveStore.js": {
+    "mtime": 1792111143.5345292,
+    "seen": 1792119057.6164858,
+    "ast_hash": "637305545e147d38412b5aa50ab86e23",
+    "semantic_hash": ""
+  },
+  "src/services/offlineLibrary.js": {
+    "mtime": 1792052481.631885,
+    "seen": 1792119057.6164858,
+    "ast_hash": "e6dfbadb2619944cdc9e854b5c1a3710",
+    "semantic_hash": ""
+  },
+  "src/utils/heritageSearch.js": {
+    "mtime": 1792111143.5346458,
+    "seen": 1792119057.616487,
+    "ast_hash": "ae53924c6956426d6eb75c7fdaf2e945",
+    "semantic_hash": ""
+  },
+  "vite.config.js": {
+    "mtime": 1792052481.6319814,
+    "seen": 1792119057.616487,
+    "ast_hash": "5b641ab5f85eff4b0b9acec3417ca9b5",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1792069789.725529,
+    "seen": 1792119057.616487,
+    "ast_hash": "2b69aa829253e96d7a3cc12482c56fe2",
+    "semantic_hash": ""
+  },
+  "SUBMISSION_CHECKLIST.md": {
+    "mtime": 1792052481.6270425,
+    "seen": 1792119057.616488,
+    "ast_hash": "ffddc4996b760c025ced363ca5f64f16",
+    "semantic_hash": ""
+  },
+  "backend/requirements.txt": {
+    "mtime": 1792052481.6273425,
+    "seen": 1792119057.616488,
+    "ast_hash": "0cd225e0fe60d260ccfc594fff54759d",
+    "semantic_hash": ""
+  },
+  "docs/district-tourism-experience.md": {
+    "mtime": 1792069757.6676443,
+    "seen": 1792119057.616489,
+    "ast_hash": "b6a57828a46da851eb3bb1ab2bd9ade6",
+    "semantic_hash": ""
+  },
+  "docs/image-management.md": {
+    "mtime": 1792058684.777038,
+    "seen": 1792119057.616489,
+    "ast_hash": "b2012dd5443eae7ffed582c631ba0eb0",
+    "semantic_hash": ""
+  },
+  "docs/tourism-data-validation.md": {
+    "mtime": 1792067540.0173059,
+    "seen": 1792119057.61649,
+    "ast_hash": "945cd810fb9387228c56c021ef0282a3",
+    "semantic_hash": ""
+  },
+  "docs/tourism-map.md": {
+    "mtime": 1792059602.048103,
+    "seen": 1792119057.61649,
+    "ast_hash": "b5ab93869d491f79fe118d9efe712cff",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1792052481.6275806,
+    "seen": 1792119057.616491,
+    "ast_hash": "e9e96757488ff1bfb8b3fccb4ddb042e",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/README.md": {
+    "mtime": 1792071834.9589317,
+    "seen": 1792119057.616491,
+    "ast_hash": "d0e10fbd837180448f24e3e2580278cd",
+    "semantic_hash": ""
+  },
+  "scripts/images/README.md": {
+    "mtime": 1792058112.9940436,
+    "seen": 1792119057.616492,
+    "ast_hash": "71936978e67f18a5e95815dd89d31e10",
+    "semantic_hash": ""
+  },
+  "scripts/tourism/README.md": {
+    "mtime": 1792067487.6158462,
+    "seen": 1792119057.616492,
+    "ast_hash": "62bc7f3f993765569600db90ec3428d2",
+    "semantic_hash": ""
+  },
+  "public/favicon.svg": {
+    "mtime": 1792052481.6280494,
+    "seen": 1792119057.616492,
+    "ast_hash": "7e840862161341271697daa99a40d76b",
+    "semantic_hash": ""
+  },
+  "public/icons.svg": {
+    "mtime": 1792052481.6281555,
+    "seen": 1792119057.616493,
+    "ast_hash": "3b4fcfcf393eca4d264dca4a4663bc37",
+    "semantic_hash": ""
+  },
+  "public/images/heritage/rehangki-morung-1536.jpg": {
+    "mtime": 1792058092.1695662,
+    "seen": 1792119057.616493,
+    "ast_hash": "529f2e19d99aca11339e8b768d9c9c5b",
+    "semantic_hash": ""
+  },
+  "public/images/heritage/rehangki-morung-1536.webp": {
+    "mtime": 1792058092.152418,
+    "seen": 1792119057.6164942,
+    "ast_hash": "08c2ba274d5a9348e13ccb7ebba0adbb",
+    "semantic_hash": ""
+  },
+  "public/images/heritage/rehangki-morung-400.jpg": {
+    "mtime": 1792058091.6257288,
+    "seen": 1792119057.6164942,
+    "ast_hash": "0e98f1e465b30d9c246033d7c5414e91",
+    "semantic_hash": ""
+  },
+  "public/images/heritage/rehangki-morung-400.webp": {
+    "mtime": 1792058091.6238847,
+    "seen": 1792119057.6164942,
+    "ast_hash": "494d49d575dd2ac1042c1c1c9b3b4071",
+    "semantic_hash": ""
+  },
+  "public/images/heritage/rehangki-morung-800.jpg": {
+    "mtime": 1792058091.7662857,
+    "seen": 1792119057.6164951,
+    "ast_hash": "c9c945271d7455d9a241e10f3dfada3c",
+    "semantic_hash": ""
+  },
+  "public/images/heritage/rehangki-morung-800.webp": {
+    "mtime": 1792058091.7620785,
+    "seen": 1792119057.6164951,
+    "ast_hash": "06e60ec388cefca8033a78a42d88fed7",
+    "semantic_hash": ""
+  },
+  "public/images/placeholders/destination-placeholder.svg": {
+    "mtime": 1792057870.1415405,
+    "seen": 1792119057.616496,
+    "ast_hash": "c0ee3878d59dc27870fc71eb655e35f1",
+    "semantic_hash": ""
+  },
+  "public/images/placeholders/district-placeholder.svg": {
+    "mtime": 1792057919.6519296,
+    "seen": 1792119057.616496,
+    "ast_hash": "294b4c5c04470a6fe4448802b56fdc4f",
+    "semantic_hash": ""
+  },
+  "public/images/placeholders/food-placeholder.svg": {
+    "mtime": 1792057893.4629352,
+    "seen": 1792119057.6164968,
+    "ast_hash": "81e2b9c2cc3a2efd38c7bd15b644bc7e",
+    "semantic_hash": ""
+  },
+  "public/images/placeholders/heritage-placeholder.svg": {
+    "mtime": 1792057930.9190965,
+    "seen": 1792119057.6164968,
+    "ast_hash": "c2000173238fb0815a9c100fd32a4ada",
+    "semantic_hash": ""
+  },
+  "public/images/placeholders/village-placeholder.svg": {
+    "mtime": 1792057881.9881651,
+    "seen": 1792119057.6164968,
+    "ast_hash": "ba1ed384865c96aa17021f22075daed2",
+    "semantic_hash": ""
+  },
+  "public/images/placeholders/wildlife-placeholder.svg": {
+    "mtime": 1792057904.6743429,
+    "seen": 1792119057.616498,
+    "ast_hash": "1a924e174ac0057bf310bef2acd0eb3f",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/benreu-village-400.jpg": {
+    "mtime": 1792058092.2070796,
+    "seen": 1792119057.616498,
+    "ast_hash": "8a4f65c4d1dd90270b740c6d3c3d0c98",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/benreu-village-400.webp": {
+    "mtime": 1792058092.205781,
+    "seen": 1792119057.616499,
+    "ast_hash": "6b7d4d230dbae1c3ccd67f5906c07dcc",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/benreu-village-496.jpg": {
+    "mtime": 1792058092.2576988,
+    "seen": 1792119057.616499,
+    "ast_hash": "da70aec635500eda5600f39d529b5ae8",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/benreu-village-496.webp": {
+    "mtime": 1792058092.2559354,
+    "seen": 1792119057.6165,
+    "ast_hash": "13a00cdf9c0e2407591241530021fc66",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/peren-overview-400.jpg": {
+    "mtime": 1792058092.3031325,
+    "seen": 1792119057.6165,
+    "ast_hash": "eee44b5aeb30211f47933033142bd35f",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/peren-overview-400.webp": {
+    "mtime": 1792058092.3017247,
+    "seen": 1792119057.6165,
+    "ast_hash": "c08b5c3500b4cf1caf7d13be3b583f0f",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/peren-overview-800.jpg": {
+    "mtime": 1792058092.4078696,
+    "seen": 1792119057.616501,
+    "ast_hash": "6db57a3e37979a0bd30f1d6824e43bd1",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/peren-overview-800.webp": {
+    "mtime": 1792058092.403859,
+    "seen": 1792119057.616501,
+    "ast_hash": "aa974bbe5b9ac852870dc6f84723a3be",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/peren-overview-823.jpg": {
+    "mtime": 1792058092.5069132,
+    "seen": 1792119057.616502,
+    "ast_hash": "7a12da3d23ae5dfaf13e0ecedc4df3ce",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/peren-overview-823.webp": {
+    "mtime": 1792058092.502615,
+    "seen": 1792119057.616502,
+    "ast_hash": "60568428d13154815572751ae3186ecd",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/poilwa-sheep-farm-400.jpg": {
+    "mtime": 1792058092.5479424,
+    "seen": 1792119057.616502,
+    "ast_hash": "555df8e5ecd4fa3e663d89cc9294a6be",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/poilwa-sheep-farm-400.webp": {
+    "mtime": 1792058092.5467684,
+    "seen": 1792119057.616503,
+    "ast_hash": "f800105515134c9d194bc6c26b3ecee1",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/poilwa-sheep-farm-800.jpg": {
+    "mtime": 1792058092.6496966,
+    "seen": 1792119057.616503,
+    "ast_hash": "909e81a4a59d1b6b2e7a7b502c585abd",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/poilwa-sheep-farm-800.webp": {
+    "mtime": 1792058092.6460357,
+    "seen": 1792119057.616504,
+    "ast_hash": "7516c560fcc37d486366ff4a879d8af1",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/poilwa-sheep-farm-962.jpg": {
+    "mtime": 1792058092.7712233,
+    "seen": 1792119057.616504,
+    "ast_hash": "68035067fa809a5fb000ceedef19057b",
+    "semantic_hash": ""
+  },
+  "public/images/tourism/districts/peren/poilwa-sheep-farm-962.webp": {
+    "mtime": 1792058092.7659578,
+    "seen": 1792119057.616504,
+    "ast_hash": "ae66c7293c13e14f077a7433e81dbbd9",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/bamboo-steamed-fish.png": {
+    "mtime": 1792117484.4758801,
+    "seen": 1792119057.6165051,
+    "ast_hash": "1ad53dd4003e3e934d98ad7fb3b47fe6",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/beans-mix.png": {
+    "mtime": 1792117522.502291,
+    "seen": 1792119057.6165051,
+    "ast_hash": "649652fa263d18ba4a6a663dba28be4d",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/bitter-melon.png": {
+    "mtime": 1792117541.5530055,
+    "seen": 1792119057.616506,
+    "ast_hash": "cfb6c1b1c1b5dcb5b68ea06a823a1ba0",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/boiled-vegetables.png": {
+    "mtime": 1792117464.0027604,
+    "seen": 1792119057.616506,
+    "ast_hash": "e975217e686f6319477b2361a0e10b6e",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/butchering-pig.png": {
+    "mtime": 1792117241.9288683,
+    "seen": 1792119057.616506,
+    "ast_hash": "cd508c5a5ba5bfcf557f7f424fa9c8a1",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/chicken-glutinous-rice-soup.png": {
+    "mtime": 1792117568.689788,
+    "seen": 1792119057.6165068,
+    "ast_hash": "5942d486c110d49e13883ba78ec958e5",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/crab-chilli-sauce.png": {
+    "mtime": 1792117671.0653067,
+    "seen": 1792119057.6165068,
+    "ast_hash": "5cd4f97239571abe6907e8e6e270291a",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/dried-pork.png": {
+    "mtime": 1792117347.015335,
+    "seen": 1792119057.616508,
+    "ast_hash": "4e11d796818a0b417663a0ef2c1a0bc0",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/food-bonfire.png": {
+    "mtime": 1792117290.2556357,
+    "seen": 1792119057.616508,
+    "ast_hash": "2d994a452f55ac2ab807cd4a3790dd0e",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/ghost-chilli-sauce.png": {
+    "mtime": 1792117693.1986122,
+    "seen": 1792119057.616508,
+    "ast_hash": "9ccf6464e129731328e8c43a7169619c",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/kongshia-lon\u2013eel-chili-sauce.png": {
+    "mtime": 1792117608.9771166,
+    "seen": 1792119057.616509,
+    "ast_hash": "ca65c2cd4f086133bc30197b9eeb3df0",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/nagaland-food.png": {
+    "mtime": 1792117222.348439,
+    "seen": 1792119057.61651,
+    "ast_hash": "586e8e0f66a5def90df3e90a3b77107f",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/nagaland-pork-dry-bamboo-shoots.png": {
+    "mtime": 1792117414.413823,
+    "seen": 1792119057.61651,
+    "ast_hash": "a1005735dced04e38aef590d24b17ac9",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/roasted-intestines.png": {
+    "mtime": 1792117502.47509,
+    "seen": 1792119057.6165109,
+    "ast_hash": "263557a95e8dd93a4aa58294e3235a80",
+    "semantic_hash": ""
+  },
+  "raw_assets/food/nagaland-food/smoked-pork-stew.png": {
+    "mtime": 1792117371.136865,
+    "seen": 1792119057.6165109,
+    "ast_hash": "1533d4449a69b558ba1fb81b03c17a6c",
+    "semantic_hash": ""
+  },
+  "raw_assets/heritage/rehangki-morung.jpg": {
+    "mtime": 1792057949.856821,
+    "seen": 1792119057.6165109,
+    "ast_hash": "fdbe1b5b10b6f2f8463dda7eb6c0d866",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/ao-baptist-church.png": {
+    "mtime": 1792113213.9308877,
+    "seen": 1792119057.616512,
+    "ast_hash": "3f2e1c6e9bb06aa57a5ad7c140d1317b",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/dimapur-street.png": {
+    "mtime": 1792112856.1213136,
+    "seen": 1792119057.616512,
+    "ast_hash": "e5c92476517f9011f4ccab372ae058cb",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/don-bosco-provincial-house.png": {
+    "mtime": 1792113144.218958,
+    "seen": 1792119057.616513,
+    "ast_hash": "4a219417edd3b2e29d1bd0ab4e3b9605",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/i-love-dimapur.png": {
+    "mtime": 1792112795.490655,
+    "seen": 1792119057.616513,
+    "ast_hash": "be1e5cb47d8cd02da98b548479382449",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/kuku-church.png": {
+    "mtime": 1792113579.5659153,
+    "seen": 1792119057.616514,
+    "ast_hash": "bc6c159a5eba301ef2661c5b2c27ace7",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/night-city-view.png": {
+    "mtime": 1792113074.106239,
+    "seen": 1792119057.616514,
+    "ast_hash": "62383bb2db94c07963977567a2008e27",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/nit-nagaland.png": {
+    "mtime": 1792113541.448376,
+    "seen": 1792119057.616514,
+    "ast_hash": "2a176468716f47785656029f0a1b7bd2",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/spalsh-view.png": {
+    "mtime": 1792112701.2896543,
+    "seen": 1792119057.6165152,
+    "ast_hash": "a6824118d7e539171f0947dc1f3250db",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/sunset.png": {
+    "mtime": 1792112927.2848275,
+    "seen": 1792119057.6165152,
+    "ast_hash": "68705693c3e24fd8648e57496b0bca4c",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/dimapur/zone-niathu.png": {
+    "mtime": 1792113271.6564329,
+    "seen": 1792119057.616516,
+    "ast_hash": "35f9b6d8bb79cdbb77893302f1cc74d2",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/Naga-tribes drinking-traditional-alcohol-in-traditional-vessel-made-of-horn.png": {
+    "mtime": 1792112171.7976062,
+    "seen": 1792119057.616516,
+    "ast_hash": "8f7705e09c695eb0b22d2a8c964df379",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/city-view.png": {
+    "mtime": 1792112392.0540195,
+    "seen": 1792119057.616516,
+    "ast_hash": "0d4a0eaf70cca604483ea2854b643e09",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/dzuko-valley-overview.png": {
+    "mtime": 1792112327.2209258,
+    "seen": 1792119057.616517,
+    "ast_hash": "79463809f7f003f943535eab434d9027",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/dzuko-valley.png": {
+    "mtime": 1792112250.0097399,
+    "seen": 1792119057.616517,
+    "ast_hash": "05f2d6927236b817959ad430b6eabb13",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/kohima-overview.png": {
+    "mtime": 1792111625.840561,
+    "seen": 1792119057.6165178,
+    "ast_hash": "8c3b4341b7b9222dc34c19fa4e9180a9",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/kohima-war-cementry.png": {
+    "mtime": 1792112035.1077995,
+    "seen": 1792119057.6165178,
+    "ast_hash": "844b028b39d52dabf6d70a2c1d8487c0",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/phq-kohima.png": {
+    "mtime": 1792112116.8539622,
+    "seen": 1792119057.6165178,
+    "ast_hash": "70d7218642de6b81b4216f2a8532014c",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/terrace-cultivation.png": {
+    "mtime": 1792112494.1244621,
+    "seen": 1792119057.616519,
+    "ast_hash": "cc526e1178edb49a2bc89f833f0dba6b",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/waterfall-forrest.png": {
+    "mtime": 1792112523.2955573,
+    "seen": 1792119057.616519,
+    "ast_hash": "83a5876fff7cc311fb2ecfc9c35f4a76",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/kohima/waterfall.png": {
+    "mtime": 1792112368.8784273,
+    "seen": 1792119057.61652,
+    "ast_hash": "99812b86ce54cbc8f78b558e70603699",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/peren/benreu-village.jpg": {
+    "mtime": 1792057949.8524837,
+    "seen": 1792119057.61652,
+    "ast_hash": "2ab645f5e33a7ad7a123bdf89e317050",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/peren/central-city-view.png": {
+    "mtime": 1792113759.4008899,
+    "seen": 1792119057.616521,
+    "ast_hash": "71061d8081287415939940d72b9820ff",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/peren/peren-overview.jpg": {
+    "mtime": 1792057949.8498235,
+    "seen": 1792119057.616521,
+    "ast_hash": "b285f155a5d808a9f3815473dcebe6dc",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/peren/poilwa-sheep-farm.jpg": {
+    "mtime": 1792057949.854828,
+    "seen": 1792119057.616521,
+    "ast_hash": "125e16b57f6f676af75fb7876e06d676",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/phek/evening-view.png": {
+    "mtime": 1792115487.5492318,
+    "seen": 1792119057.616522,
+    "ast_hash": "5c37666bed27a6cda26e76db4803cdab",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/phek/farm-land.png": {
+    "mtime": 1792114304.6243162,
+    "seen": 1792119057.616522,
+    "ast_hash": "ac8879e9a5072e9053a0eb05a91599be",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/phek/magnificent-view.png": {
+    "mtime": 1792114366.0375519,
+    "seen": 1792119057.616523,
+    "ast_hash": "a482b0c566583b92c4363a4757baf412",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/phek/mountain-green-land.png": {
+    "mtime": 1792114614.109102,
+    "seen": 1792119057.616523,
+    "ast_hash": "530fa7e23e45dcae02f2ace55cecf488",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/phek/mountain-view.png": {
+    "mtime": 1792114659.4765658,
+    "seen": 1792119057.616524,
+    "ast_hash": "ecce2157187da5013f626f595498fc53",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/phek/phek-church.png": {
+    "mtime": 1792114261.2135026,
+    "seen": 1792119057.616524,
+    "ast_hash": "671e8b997eaa44040930975ca4961708",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/phek/phek-overview.png": {
+    "mtime": 1792113873.1861777,
+    "seen": 1792119057.616524,
+    "ast_hash": "50cdde803afef146c1f4266e7caca6b2",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/aerial-view.png": {
+    "mtime": 1792116935.0710437,
+    "seen": 1792119057.6165252,
+    "ast_hash": "1ec5cbd683e3ae841d9422d12e4e7eff",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/beautiful-mountain.png": {
+    "mtime": 1792116775.558895,
+    "seen": 1792119057.6165252,
+    "ast_hash": "e5f26e358c6c10910bffde05eeb0c090",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/bridge.png": {
+    "mtime": 1792116686.750686,
+    "seen": 1792119057.6165261,
+    "ast_hash": "ae9b7a57eeb97192434e1251768151d7",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/city-view.png": {
+    "mtime": 1792116583.5578976,
+    "seen": 1792119057.6165261,
+    "ast_hash": "1a477dccb65717a3df3d0aa3ed81e6cc",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/mountain-river.png": {
+    "mtime": 1792116628.5755312,
+    "seen": 1792119057.616527,
+    "ast_hash": "32fc85be9635b1107f2915267a838601",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/mountain-view.png": {
+    "mtime": 1792116733.0259702,
+    "seen": 1792119057.616527,
+    "ast_hash": "ddd92376a87ee00f3e43bc447d8cf293",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/tsumang-lake.png": {
+    "mtime": 1792116872.94488,
+    "seen": 1792119057.6165278,
+    "ast_hash": "395f1189a9c7f8ec017c3cf1684aad02",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/wokha-church.png": {
+    "mtime": 1792116838.7755566,
+    "seen": 1792119057.6165278,
+    "ast_hash": "d527dbf2042b196b46ce76c2baee16c2",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/wokha-overview.png": {
+    "mtime": 1792116516.3570266,
+    "seen": 1792119057.616529,
+    "ast_hash": "76814633d0ad19c70a2b5443ee0cffe7",
+    "semantic_hash": ""
+  },
+  "raw_assets/tourism/districts/wokha/wokha-town-baptist-church.png": {
+    "mtime": 1792116996.294862,
+    "seen": 1792119057.616529,
+    "ast_hash": "35376123c505a7c8692e4f9525fcdf62",
+    "semantic_hash": ""
+  },
+  "src/assets/hero.png": {
+    "mtime": 1792052481.628541,
+    "seen": 1792119057.616529,
+    "ast_hash": "aead493361b27e7510691c5d7072dfc1",
+    "semantic_hash": ""
+  },
+  "src/assets/react.svg": {
+    "mtime": 1792052481.6286654,
+    "seen": 1792119057.61653,
+    "ast_hash": "f0402b67b6ce880f65666bb49e841696",
+    "semantic_hash": ""
+  },
+  "src/assets/vite.svg": {
+    "mtime": 1792052481.6287725,
+    "seen": 1792119057.61653,
+    "ast_hash": "9960a24288958394ac50e57ff638b036",
+    "semantic_hash": ""
+  }
+}
